@@ -1,0 +1,19 @@
+{
+  "name": "survivio",
+  "version": "1.0.0",
+  "description": "An API for surviv.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grant/node-survivio.git"
+  },
+  "author": "Grant Timmerman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grant/node-survivio/issues"
+  },
+  "homepage": "https://github.com/grant/node-survivio#readme"
+}
