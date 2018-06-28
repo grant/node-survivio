@@ -97,3 +97,12 @@ tsc && node .
 # or
 tsc && node . grant
 ```
+
+## Publish
+
+```sh
+git commit
+npm version patch
+git push origin --tags
+npm publish
+```
