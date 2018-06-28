@@ -2,7 +2,7 @@
 
 (Note: This module is in development)
 
-An Node CLI for surviv.io. You can:
+An Node CLI for [surviv.io](http://surviv.io/). You can:
 
 - Read global stats
 - Read user stats
