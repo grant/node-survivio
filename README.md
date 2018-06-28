@@ -1,12 +1,25 @@
 # node-survivio
 
-An Node CLI for surviv.io
+An Node CLI for surviv.io. You can:
 
-## Global stats
+- Read global stats
+- Read user stats
 
-`node .`
+## Global stat types
 
-Outputs:
+- Most kills
+  - today/week/all
+  - solo/duo/squad
+
+## User stats
+
+- Games today
+- Kills today
+- Kills last match
+- Total games
+- Total kills
+
+# Output
 
 ```
 ┌────────────────────────────────┐
