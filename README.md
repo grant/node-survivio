@@ -1,5 +1,7 @@
 # node-survivio
 
+(Note: This module is in development)
+
 An Node CLI for surviv.io. You can:
 
 - Read global stats
