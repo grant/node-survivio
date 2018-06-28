@@ -1,6 +1,6 @@
 {
   "name": "survivio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An API for surviv.io",
   "main": "src/test.js",
   "types": "src/index.d.ts",
