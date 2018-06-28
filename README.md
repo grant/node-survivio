@@ -101,6 +101,7 @@ tsc && node . grant
 ## Publish
 
 ```sh
+git add -A
 git commit
 npm version patch
 git push origin --tags
